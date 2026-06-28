@@ -100,7 +100,7 @@ Unit testing with Jest, caching strategies, and getting comfortable with AI-assi
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto:ziadfayezmahmoud@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=ziadfayezmahmoud@gmail.com&tf=cm))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=ziadfayezmahmoud@gmail.com&tf=cm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-fayez-mahmoud-44257835a/)
 [![Resume](https://img.shields.io/badge/Resume-Available_on_request-5DCAA5?style=for-the-badge)](https://drive.google.com/file/d/11lHgKYiXexGvlcEVoqkCNAY5PalrC5-n/view?usp=sharing)
 
