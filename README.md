@@ -79,9 +79,6 @@ A complete fullstack e-commerce platform: a modular NestJS backend paired with a
 
 🔗 **Live:** [e-shop-frontend-48s8.vercel.app](https://e-shop-frontend-48s8.vercel.app/)
 
-### 🌱 Currently learning / exploring
-
-Unit testing with Jest, caching strategies, and getting comfortable with AI-assisted development workflows (Claude, GitHub Copilot) as part of my day-to-day stack.
 
 ### 📊 GitHub Stats
 
